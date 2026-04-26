@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/garsa/Engineering/c/build/CMakeFiles/bootloader
+/home/garsa/Engineering/c/build/CMakeFiles/bootloader.rule
+/home/garsa/Engineering/c/build/CMakeFiles/bootloader-complete.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/garsa/Engineering/c/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

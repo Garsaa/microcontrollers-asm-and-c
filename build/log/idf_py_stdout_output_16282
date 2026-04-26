@@ -1,0 +1,17 @@
+[1/9] Building ASM object esp-idf/main/CMakeFiles/__idf_main.dir/led_on.S.obj
+[2/9] Linking C static library esp-idf/main/libmain.a
+[3/9] Performing build step for 'bootloader'
+[1/1] cd /home/garsa/Engineering/c/build/bootloader/esp-idf/esptool_py && /home/garsa/.espressif/python_env/idf5.2_py3.13_env/bin/python /home/garsa/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x1000 /home/garsa/Engineering/c/build/bootloader/bootloader.bin
+Bootloader binary size 0x6860 bytes. 0x7a0 bytes (7%) free.
+[4/9] No install step for 'bootloader'
+[5/9] Completed 'bootloader'
+[6/9] Generating ld/sections.ld
+[7/9] Linking CXX executable esp32_asm_led_on.elf
+[8/9] Generating binary image from built executable
+esptool.py v4.11.0
+Creating esp32 image...
+Merged 2 ELF sections
+Successfully created esp32 image.
+Generated /home/garsa/Engineering/c/build/esp32_asm_led_on.bin
+[9/9] cd /home/garsa/Engineering/c/build/esp-idf/esptool_py && /home/garsa/.espressif/python_env/idf5.2_py3.13_env/bin/python /home/garsa/esp/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /home/garsa/Engineering/c/build/partition_table/partition-table.bin /home/garsa/Engineering/c/build/esp32_asm_led_on.bin
+esp32_asm_led_on.bin binary size 0x2af90 bytes. Smallest app partition is 0x100000 bytes. 0xd5070 bytes (83%) free.
